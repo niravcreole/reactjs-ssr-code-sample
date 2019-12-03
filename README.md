@@ -1,4 +1,4 @@
-# Reactjs-SSR-Demo
+# Reactjs-SSR-Code-Sample
 
 _SSR with all the goodies, without ejecting._
 
