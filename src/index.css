@@ -1,0 +1,10 @@
+.fa-events-icons-ready {
+  overflow-x: hidden !important;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  overflow-x: hidden !important;
+}

@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "ssr-server",
+      "script": "yarn",
+      "args": "serve",
+      "interpreter": "/bin/bash",
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  ]
+}
